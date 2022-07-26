@@ -1,4 +1,4 @@
-import style from "./index.module.scss";
+import style from "./homepage.module.scss";
 import Head from "next/head";
 
 export function Homepage() {
